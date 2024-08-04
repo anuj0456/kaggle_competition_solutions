@@ -1,6 +1,6 @@
 # Winning approach by tk & T0m
 
-Team Members - tk,T0m
+Team Members - tk, T0m
 
 REF: https://www.kaggle.com/competitions/uspto-explainable-ai/discussion/522233
 
