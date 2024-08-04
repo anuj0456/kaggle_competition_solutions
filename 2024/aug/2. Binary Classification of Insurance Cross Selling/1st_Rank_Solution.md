@@ -1,4 +1,4 @@
-# Winning approach - Team Cross Sellers
+# Winning approach by Team Cross Sellers
 
 Team Members - Ravi Ramakrishnan, Minato Namikaze
 REF: https://www.kaggle.com/competitions/playground-series-s4e7/discussion/523404

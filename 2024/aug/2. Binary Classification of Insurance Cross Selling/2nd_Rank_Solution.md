@@ -1,4 +1,4 @@
-# Winning approach - Team Ujjwal Pandey
+# Winning approach by Team Ujjwal Pandey
 
 Team Members - Ujjwal Pandey
 REF: https://www.kaggle.com/competitions/playground-series-s4e7/discussion/523489
