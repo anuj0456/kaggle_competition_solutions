@@ -1,6 +1,7 @@
 # Winning approach by Shun_PI
 
 Team Members - shunrcn
+
 REF: https://www.kaggle.com/competitions/uspto-explainable-ai/discussion/522258
 
 ## Magic

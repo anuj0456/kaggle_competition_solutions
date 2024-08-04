@@ -1,6 +1,7 @@
 # Winning approach by tk & T0m
 
 Team Members - tk,T0m
+
 REF: https://www.kaggle.com/competitions/uspto-explainable-ai/discussion/522233
 
 ## summary
@@ -55,4 +56,4 @@ Generate candidates for subqueries to be used in the query through the following
 4. Duplicate removal
    - Reduce the number of candidates by removing duplicates, as subqueries with the same target set do not need multiple candidates
 
-Solution: ![1st_Rank_Solution_Code.ipynb](1st_Rank_Solution_Code.ipynb)
+Solution: ![](1st_Rank_Solution_Code.ipynb)
