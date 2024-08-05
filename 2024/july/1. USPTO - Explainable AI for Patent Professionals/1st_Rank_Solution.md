@@ -56,4 +56,4 @@ Generate candidates for subqueries to be used in the query through the following
 4. Duplicate removal
    - Reduce the number of candidates by removing duplicates, as subqueries with the same target set do not need multiple candidates
 
-Solution: ![](1st_Rank_Solution_Code.ipynb)
+## Solution Code: ![](1st_Rank_Solution_Code.ipynb)
