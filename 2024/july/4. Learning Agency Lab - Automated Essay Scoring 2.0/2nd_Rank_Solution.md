@@ -55,7 +55,8 @@ This model is trained with:
 
 I use BCEWithLogitsLoss to train ordinal regression model
 
-`@torch.no_grad()
+```
+@torch.no_grad()
 def to_labels(labels: torch.Tensor, num_labels):
 labels = labels.clone()
 labels = labels - 1
@@ -64,9 +65,11 @@ outputs = torch.zeros((B, num_labels - 1), dtype=torch.float32, device=labels.de
 cols = torch.arange(outputs.shape[1], device=labels.device)
 mask = cols < labels.unsqueeze(1)
 outputs[mask] = 1
-return outputs`
+return outputs
+```
 
-`class AESRegressionModel(nn.Module):
+```
+class AESRegressionModel(nn.Module):
 def get_loss_function(self, config):
 return nn.BCEWithLogitsLoss(reduction="none")
     def forward(self, x):
@@ -77,7 +80,8 @@ return nn.BCEWithLogitsLoss(reduction="none")
         new_labels = to_labels(labels, self.n_labels)
         loss = self.criterion(logits.reshape(-1, ), new_labels.reshape(-1, ))
         loss = loss.mean()
-        return loss`
+        return loss
+```
 
 **exp320**
 
