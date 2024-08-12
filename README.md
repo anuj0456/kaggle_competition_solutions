@@ -40,7 +40,7 @@ Contributions are welcome! If you have a solution from a Kaggle competition that
 
 ### Acknowledgements
 
-A big thank you to the @SudalaiRajkumar (SRK) & Kaggle team for providing the Meta Kaggle dataset, which makes this repository possible. Additionally, we appreciate the Kaggle community members who share their solutions and insights, fostering a collaborative and innovative environment.
+A big thank you to the [@SudalaiRajkumar] (https://github.com/SudalaiRajkumar) & Kaggle team for providing the Meta Kaggle dataset, which makes this repository possible. Additionally, we appreciate the Kaggle community members who share their solutions and insights, fostering a collaborative and innovative environment.
 
 ---
 
