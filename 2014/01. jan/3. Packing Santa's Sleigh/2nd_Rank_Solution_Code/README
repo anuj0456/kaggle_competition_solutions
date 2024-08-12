@@ -1,0 +1,11 @@
+In order to reproduce our final packing, one needs to do the following.
+
+1. Compile the programs:
+make pack
+make masterimploder
+2. Transform the presents list from a CSV file, to a file where subsequent integers are separated by spaces instead of comas, and there is no header (this can be done in any reasonable editor).
+3. Run the program:
+./pack < presents.txt > answer.csv
+4. Run the optimizer (masterimploder):
+./masterimploder 
+5. The final packing will be in the optimized.csv file.
