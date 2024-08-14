@@ -149,4 +149,4 @@ RUNNING THE CODE
 
 Compiling using make should reproduce the leaderboard result. This has only been tested under linux with gcc. Reading the code is not recommended :) If you try anyway, feel free to ask questions, we will do our best to clarify things.
 
-Solutio: [text](2nd_Rank_Solution_Code)
+Solutio: [Link_to_Code](2nd_Rank_Solution_Code)
