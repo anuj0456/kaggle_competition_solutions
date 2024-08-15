@@ -1,0 +1,4 @@
+
+Hardware : Dell N5010 i5 @ 2.53GHz 4G RAM / OS : Windows 7
+ Software : R64 3.0.2, Excel 2010. The first part of R code take RepairTrain.csv and Output_TargetID_Mapping.csv
+ (as provided by kaggle) as input data files, and generate a .csv file "trainForExcelAnalysis.csv" as output. This "ttrainForExcelAnalysis.csv" file is used by Excel to analyze the repair rate pattern, and thus to design appropriate parameters for exponential decay functions in second part of the R code. The second part of R code generate prediction output "predsubmit.csv" file which can be directly submitted to Kaggle without further processing. Note that these files should all be located in the R working directory.
