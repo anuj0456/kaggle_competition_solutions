@@ -2,7 +2,7 @@
 
 Team Members - sedielem
 
-REF: https://www.kaggle.com/competitions/galaxy-zoo-the-galaxy-challenge/discussion/7722
+REF: <https://www.kaggle.com/competitions/galaxy-zoo-the-galaxy-challenge/discussion/7722>
 
 ## Introduction
 
@@ -215,4 +215,4 @@ I would like to thank the organisers of the competition, as well as the authors 
 
 I will clean up my code and I’ll put it on GitHub soon. If you have any questions or feedback about this post, feel free to leave a comment.
 
-Solution: https://github.com/benanne/kaggle-galaxies
+Solution: <https://github.com/benanne/kaggle-galaxies>
