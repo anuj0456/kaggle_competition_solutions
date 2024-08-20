@@ -1,6 +1,6 @@
 # Winning approach by DataRobot
 
-Team Members - [@Jeremy Achin](https://github.com/jeremyadr), Xavier Conort, [@Lucas Eustaquio](https://github.com/lucaseustaquio)
+Team Members - [@Jeremy Achin](https://github.com/jeremyadr), [@Xavier Conort](https://github.com/GXavier), [@Lucas Eustaquio](https://github.com/lucaseustaquio)
 
 REF: https://www.kaggle.com/competitions/kdd-cup-2014-predicting-excitement-at-donors-choose/discussion/9774
 
